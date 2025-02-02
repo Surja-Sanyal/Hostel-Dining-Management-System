@@ -7,7 +7,7 @@ Version 1 (_V1) has dropdowns for choosing one unit of extra items taken.
 
 Version 2 (_V2) has counters for choosing the quantity of extra items take.
 
-Version 3 (_V3) extends _V2 by considering dining facility offs and leaves of hostel boarders.
+Version 3 (_V3) extends _V2 by considering dining facility off days and leaves of hostel boarders.
 
 Both versions provide the same results.
 
