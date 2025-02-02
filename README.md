@@ -12,4 +12,4 @@ Both versions provide the same results.
 Please enable "macros with digital signatures" for this tool to work.
 
 For support contact:
-hi.surja06@gmail.com, surja.sanyal@{iitg.ac.in, iitbhu.ac.in}
+hi.surja06@gmail.com, surja.sanyal@iitg.ac.in, surja.sanyal@iitbhu.ac.in
